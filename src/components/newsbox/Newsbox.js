@@ -16,7 +16,7 @@ export const Newsbox = () => {
       }}
     >
       <div className='scrollable-content'>
-        <p>Last update: 14.10.2023</p>
+        <p>Last update: 28.10.2023</p>
         <p>Added news box</p>
         <p><strong>Antd</strong></p>
         <p>React</p>

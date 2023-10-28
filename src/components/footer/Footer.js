@@ -13,7 +13,7 @@ export const Footer = () => {
   <Row gutter={16}>
     <Col span={8}>
       <Card className='card' title="About Us">
-        <p>Download everything you want!</p>
+        <p>Twit everything, you want!</p>
       </Card>
     </Col>
 
@@ -30,9 +30,9 @@ export const Footer = () => {
     <Col span={8}>
       <Card className='card' title="Important Links">
         <ul>
-          <li><a href="/services">Services</a></li>
-          <li><a href="/products">Products</a></li>
-          <li><a href="/blog">Blog</a></li>
+          <li><a href="/services">///</a></li>
+          <li><a href="/products">...</a></li>
+          <li><a href="/blog">abc</a></li>
         </ul>
       </Card>
     </Col>

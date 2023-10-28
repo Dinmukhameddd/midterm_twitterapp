@@ -9,6 +9,7 @@ import { Login } from './components/login_register/Login';
 import { Register } from './components/login_register/Register';
 import { Contact } from './components/pages/Contact'
 import { Post } from './components/pages/Post';
+import { HomePage } from './components/pages/Home';
 
 /*routing*/
 import {
@@ -25,7 +26,7 @@ const router = createBrowserRouter([
         children: [
             {
                 path: "/home",
-                element: <Content />
+                element: <HomePage />
             },
             {
                 path: "/post",
